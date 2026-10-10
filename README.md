@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Digvijay 👋<br><br>💭 *Reincarnating Self.* I build things with Python and data, and I'm always trying to level up.<br><br>---<br><br>- 🔭 I'm currently working on **an AI-powered hospital management system** and improving my **fake news detection** model<br>- 👯 I'm looking to collaborate on **machine learning, NLP and data analysis projects**<br>- 🤝 I'm looking for help with **deploying ML models and writing cleaner, production-ready Python**<br>- 🌱 I'm currently learning **machine learning, NLP and data visualization**<br>- 💬 Ask me about **Python, data analysis (Pandas, Jupyter) and building small ML projects**<br>- ⚡ Fun fact: **I analysed Swiggy sales data, so I know a lot about what people order 🍕**<br><br>---<br><br>## 🛠️ Tech Stack<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)<br>![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)<br>![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)<br>![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br><br>---<br><br>## 🚀 Featured Projects<br><br>| Project | What it does |<br>|---|---|<br>| [📰 fake-news-detection](https://github.com/Mscient/fake-news-detection) | Classifies news articles as real or fake using NLP and machine learning |<br>| [🏥 AI-Hospital-Management](https://github.com/Mscient/AI-Hospital-Mangement) | Python-based hospital management system with AI features |<br>| [🍔 Swiggy_data_analysis](https://github.com/Mscient/Swiggy_data_analysis) | Exploratory analysis of Swiggy sales data with insights and charts |<br>| [✅ Task-Management-App](https://github.com/Mscient/Task-Management-App) | Python app to create, track and manage tasks |<br><br>---<br><br>## 📫 Connect with me<br><br>- GitHub: [@Mscient](https://github.com/Mscient)<br>- LinkedIn: *add your link here*<br>- Email: *add your email here*<br><br>---<br><br>⭐ If you like any of my projects, consider giving them a star!v
 
-<!--
-**Mscient/Mscient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/digvijay-bhosale-488347309/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mscient&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mscient&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mscient&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Mscient&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
